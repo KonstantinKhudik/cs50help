@@ -3,9 +3,10 @@
  * CS50, Fall 2018 *
  *******************/
 
-p
+h4
 {
     /* hex color code for Harvard crimson */
     color: #A51C30;
+    font-size: medium;
 
 }
